@@ -17,7 +17,7 @@ The next task will be creating a "proof-of-concept" application that will receiv
 ## Homomorphic encryption libraries
 
 - [microsoft/SEAL](https://github.com/microsoft/SEAL)
-  - Project description: 
+  - Project description: Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
   - Languages: C++
   - License: [MIT License](https://github.com/microsoft/SEAL/blob/main/LICENSE)
 
