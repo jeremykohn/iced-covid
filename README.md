@@ -25,3 +25,9 @@ The next task will be creating a "proof-of-concept" application that will receiv
   - Project description: PALISADE is an open-source project that provides efficient implementations of lattice cryptography building blocks and leading homomorphic encryption schemes.
   - Languages: C++, with [Python wrapper](https://gitlab.com/palisade/palisade-python-demo) available
   - License: [BSD 2-Clause](https://gitlab.com/palisade/palisade-release/-/blob/master/LICENSE)
+
+
+## Other resources
+
+- [Homomorphic Encryption Standardization](https://homomorphicencryption.org/)
+  - Description: an open consortium of industry, government and academia to standardize homomorphic encryption.
