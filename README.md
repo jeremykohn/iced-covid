@@ -26,6 +26,15 @@ The next task will be creating a "proof-of-concept" application that will receiv
   - Languages: C++, with [Python wrapper](https://gitlab.com/palisade/palisade-python-demo) available
   - License: [BSD 2-Clause](https://gitlab.com/palisade/palisade-release/-/blob/master/LICENSE)
 
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft)
+  - Project description: A library for answering questions using data you cannot see.
+  - Languages: Python
+  - License: [Apache License 2.0](https://github.com/OpenMined/PySyft/blob/dev/LICENSE)
+
+- [OpenMined/TenSEAL](https://github.com/OpenMined/TenSEAL)
+  - Project description: A library for doing homomorphic encryption operations on tensors.
+  - Languages: Python, C++
+  - License: [Apache License 2.0](https://github.com/OpenMined/TenSEAL/blob/master/LICENSE)
 
 ## Other resources
 
