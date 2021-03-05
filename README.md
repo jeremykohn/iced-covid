@@ -40,3 +40,6 @@ The next task will be creating a "proof-of-concept" application that will receiv
 
 - [Homomorphic Encryption Standardization](https://homomorphicencryption.org/)
   - Description: an open consortium of industry, government and academia to standardize homomorphic encryption.
+
+- [Awesome Homomorphic Encryption](https://github.com/jonaschn/awesome-he)
+  - Desctiption: A curated list of amazing Homomorphic Encryption libraries, software and resources.
