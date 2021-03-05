@@ -2,7 +2,7 @@
 
 The initial task is to compile and organize existing resources.
 
-The main goal will be to create a "proof-of-concept" application that will receive a homomorphically encrypted dataset of medical images, run a machine learning classifier on the data, and return the classifier's encrypted predictions.
+The main goal will be to create a "proof-of-concept" application that will train a machine learning classifier on encrypted images, run the classifier on additional encrypted images, and return the classifier's encrypted predictions.
 
 ## Existing projects for encrypted image classification
 
