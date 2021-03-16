@@ -50,3 +50,7 @@ The main goal will be to create a "proof-of-concept" application that will train
 
 - [Awesome Homomorphic Encryption](https://github.com/jonaschn/awesome-he)
   - Desctiption: A curated list of amazing Homomorphic Encryption libraries, software and resources.
+
+- [CrypTen](https://github.com/facebookresearch/CrypTen)
+  - Description: A research tool for secure machine learning in PyTorch. CrypTen currently implements a cryptographic method called secure multiparty computation (MPC), and we expect to add support for homomorphic encryption and secure enclaves in futue releases. 
+  - Website: https://crypten.ai/
