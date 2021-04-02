@@ -43,6 +43,10 @@ The main goal will be to create a "proof-of-concept" application that will train
   - Languages: Python, C++
   - License: [Apache License 2.0](https://github.com/OpenMined/TenSEAL/blob/master/LICENSE)
 
+## Research papers
+
+- [A Systematic Comparison of Encrypted Machine Learning Solutions for Image Classification](https://deepai.org/publication/a-systematic-comparison-of-encrypted-machine-learning-solutions-for-image-classification), Veneta Haralampieva, et al., Imperial College London, 2020-11-10
+
 ## Other resources
 
 - [Homomorphic Encryption Standardization](https://homomorphicencryption.org/)
