@@ -13,6 +13,11 @@ The main goal will be to create a "proof-of-concept" application that will train
   - Project description: Implementation of a Neural Network that predicts encrypted handwritten digits from the MNIST dataset. Encryption and Network Implemented using Homomorphic encryption library SEAL. Model obtained by training on unencrypted images using TensorFlow.
   - License: [GNU General Public License (GPL) v3.0](https://github.com/ibarrond/Pyfhel/blob/master/LICENSE.txt)
 
+- [fentec-project/neural-network-on-encrypted-data](https://github.com/fentec-project/neural-network-on-encrypted-data)
+  - Project description: Demonstrating neural network model applied on encrypted data by using functional encryption.
+  - License: [Apache License 2.0](https://github.com/fentec-project/neural-network-on-encrypted-data/blob/master/LICENSE)
+
+
 #### No description or license
 
 - [linaelsadek/ClassificationOverEncryptedImages](https://github.com/linaelsadek/ClassificationOverEncryptedImages)
