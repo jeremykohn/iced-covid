@@ -52,11 +52,18 @@ The main goal will be to create a "proof-of-concept" application that will train
 
 ### Surveys, reviews, and summaries of research
 
+- [Confidential Machine Learning on Untrusted Platforms: A Survey](https://deepai.org/publication/confidential-machine-learning-on-untrusted-platforms-a-survey). Sagar Sharma, Keke Chen. 2020-12-15.
+
 - [A Systematic Comparison of Encrypted Machine Learning Solutions for Image Classification](https://deepai.org/publication/a-systematic-comparison-of-encrypted-machine-learning-solutions-for-image-classification). Veneta Haralampieva, Daniel Rueckert, Jonathan Passerat-Palmbach. 2020-11-10.
+
 
 ### Additional research papers and studies
 
+- [Efficient CNN Building Blocks for Encrypted Data](https://deepai.org/publication/efficient-cnn-building-blocks-for-encrypted-data). Nayna Jain, Karthik Nandakumar, Nalini Ratha, Sharath Pankanti, Uttam Kumar. 2021-01-30.
+
 - [On the Security of Homomorphic Encryption on Approximate Numbers](https://eprint.iacr.org/2020/1533). Baiyu Li, Daniele Micciancio. Received 2020-12-07, last revised 2021-03-07.
+
+- [CaRENets: Compact and Resource-Efficient CNN for Homomorphic Inference on Encrypted Medical Images](https://deepai.org/publication/carenets-compact-and-resource-efficient-cnn-for-homomorphic-inference-on-encrypted-medical-images). Jin Chao, Ahmad Al Badawi, Balagopal Unnikrishnan, Jie Lin, Chan Fook Mun, James M. Brown, J. Peter Campbell, Michael Chiang, Jayashree Kalpathy-Cramer, Vijay Ramaseshan Chandrasekhar, Pavitra Krishnaswamy, Khin Mi Mi Aung. 2019-01-29.
 
 
 ## Other resources
