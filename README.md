@@ -56,8 +56,11 @@ The main goal will be to create a "proof-of-concept" application that will train
 - [PySyft](https://github.com/OpenMined/PySyft) - Python library for secure and private Deep Learning.
   - License: [Apache License 2.0](https://github.com/OpenMined/PySyft/blob/dev/LICENSE)
 - [python-paillier](https://github.com/data61/python-paillier) - Partially HE based on Paillier scheme.
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/data61/python-paillier/blob/master/LICENSE.txt)
 - [SEAL-python](https://github.com/Huelse/SEAL-Python/) - Python binding for the [Microsoft SEAL](#SEAL) library.
+  - License: [MIT License](https://github.com/Huelse/SEAL-Python/blob/master/LICENSE)
 - [SparkFHE](https://github.com/SpiRITlab/spark) - Apache Spark with an add-on for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf).
+  - License: [Apache License 2.0](https://github.com/SpiRITlab/spark/blob/master/LICENSE)
 - <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds. (C++)</a>
   - License: [Apache License 2.0](https://github.com/tfhe/tfhe/blob/master/LICENSE)
 - [TenSEAL](https://github.com/OpenMined/TenSEAL) - Library for HE operations on tensors, built on [Microsoft SEAL](#SEAL), with a Python API.
