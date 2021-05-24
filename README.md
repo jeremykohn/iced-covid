@@ -53,7 +53,7 @@ The main goal will be to create a "proof-of-concept" application that will train
   - License: [BSD 2-Clause](https://gitlab.com/palisade/palisade-release/-/blob/master/LICENSE)
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
-- [PySyft](https://github.com/OpenMined/PySyft)
+- [PySyft](https://github.com/OpenMined/PySyft) - Python library for secure and private Deep Learning.
   - License: [Apache License 2.0](https://github.com/OpenMined/PySyft/blob/dev/LICENSE)
 - [python-paillier](https://github.com/data61/python-paillier) - Partially HE based on Paillier scheme.
 - [SEAL-python](https://github.com/Huelse/SEAL-Python/) - Python binding for the [Microsoft SEAL](#SEAL) library.
