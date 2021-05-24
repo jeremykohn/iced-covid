@@ -45,27 +45,22 @@ The main goal will be to create a "proof-of-concept" application that will train
 - [libScarab](https://github.com/hcrypt-project/libScarab) - C library implementing a FHE scheme using large integers.
 - [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
 - <a name="SEAL">[Microsoft SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.</a>
-  - Languages: C++
   - License: [MIT License](https://github.com/microsoft/SEAL/blob/main/LICENSE)
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
 - [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms.
-- <a name="PALISADE">[PALISADE](https://palisade-crypto.org/software-library) - Efficient implementations of lattice cryptography building blocks and leading homomorphic encryption schemes.
-  - Languages: C++, with [Python wrapper](https://gitlab.com/palisade/palisade-python-demo) available
+- <a name="PALISADE">[PALISADE](https://palisade-crypto.org/software-library) - Efficient implementations of lattice cryptography building blocks and leading homomorphic encryption schemes. (C++, with [Python wrapper](https://gitlab.com/palisade/palisade-python-demo) available)
   - License: [BSD 2-Clause](https://gitlab.com/palisade/palisade-release/-/blob/master/LICENSE)
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
 - [PySyft](https://github.com/OpenMined/PySyft)
-  - Languages: Python
   - License: [Apache License 2.0](https://github.com/OpenMined/PySyft/blob/dev/LICENSE)
 - [python-paillier](https://github.com/data61/python-paillier) - Partially HE based on Paillier scheme.
 - [SEAL-python](https://github.com/Huelse/SEAL-Python/) - Python binding for the [Microsoft SEAL](#SEAL) library.
 - [SparkFHE](https://github.com/SpiRITlab/spark) - Apache Spark with an add-on for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf).
-- <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
-  - Languages: C++
+- <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds. (C++)</a>
   - License: [Apache License 2.0](https://github.com/tfhe/tfhe/blob/master/LICENSE)
 - [TenSEAL](https://github.com/OpenMined/TenSEAL) - Library for HE operations on tensors, built on [Microsoft SEAL](#SEAL), with a Python API.
-  - Languages: Python, C++
   - License: [Apache License 2.0](https://github.com/OpenMined/TenSEAL/blob/master/LICENSE)
 
 
