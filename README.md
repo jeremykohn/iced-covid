@@ -49,9 +49,11 @@ The main goal will be to create a "proof-of-concept" application that will train
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
 - [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms.
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/nucypher/nufhe/blob/master/LICENSE.md)
 - <a name="PALISADE">[PALISADE](https://palisade-crypto.org/software-library) - Efficient implementations of lattice cryptography building blocks and leading homomorphic encryption schemes. (C++, with [Python wrapper](https://gitlab.com/palisade/palisade-python-demo) available)
   - License: [BSD 2-Clause](https://gitlab.com/palisade/palisade-release/-/blob/master/LICENSE)
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
+  - License: [BSD 2-Clause](https://github.com/gdanezis/petlib/blob/master/LICENSE.txt)
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
   - License: [GNU General Public License (GPL) v3.0](https://github.com/ibarrond/Pyfhel/blob/master/LICENSE.txt)
 - [PySyft](https://github.com/OpenMined/PySyft) - Python library for secure and private Deep Learning.
