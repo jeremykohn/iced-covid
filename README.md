@@ -46,8 +46,10 @@ The main goal will be to create a "proof-of-concept" application that will train
 - [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
 - <a name="SEAL">[Microsoft SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.</a>
   - License: [MIT License](https://github.com/microsoft/SEAL/blob/main/LICENSE)
-- [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
+- [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials. (C++)
+  - License: [MIT License](https://github.com/quarkslab/NFLlib/blob/master/MIT_LICENSE.txt)
 - [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL).
+  - License: [MIT License](https://github.com/morfix-io/node-seal/blob/master/LICENSE)
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms. (Python)
   - License: [GNU General Public License (GPL) v3.0](https://github.com/nucypher/nufhe/blob/master/LICENSE.md)
 - <a name="PALISADE">[PALISADE](https://palisade-crypto.org/software-library) - Efficient implementations of lattice cryptography building blocks and leading homomorphic encryption schemes. (C++, with [Python wrapper](https://gitlab.com/palisade/palisade-python-demo) available)
