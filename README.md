@@ -73,7 +73,7 @@ The main goal will be to create a "proof-of-concept" application that will train
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
   - License: [GNU General Public License (GPL) v3.0](https://github.com/ibarrond/Pyfhel/blob/master/LICENSE.txt)
 - [PySyft](https://github.com/OpenMined/PySyft) - Python library for secure and private Deep Learning.
-  - License: [Apache License 2.0](https://github.com/OpenMined/PySyft/blob/dev/LICENSE)
+  - License: [Apache License 2.0](https://github.com/OpenMined/PySyft/blob/main/packages/syft/LICENSE) (PySyft/packages/syft/LICENSE)
 - [python-paillier](https://github.com/data61/python-paillier) - Partially HE based on Paillier scheme.
   - License: [GNU General Public License (GPL) v3.0](https://github.com/data61/python-paillier/blob/master/LICENSE.txt)
 - [SEAL-python](https://github.com/Huelse/SEAL-Python/) - Python binding for the [Microsoft SEAL](#SEAL) library.
