@@ -57,17 +57,17 @@ Library | Description | Language | License
 [python-paillier](https://github.com/data61/python-paillier) | Partially HE based on Paillier scheme. | Python | [GNU General Public License (GPL) v3.0](https://github.com/data61/python-paillier/blob/master/LICENSE.txt)
 [SEAL-python](https://github.com/Huelse/SEAL-Python/) | Python binding for the [Microsoft SEAL](#SEAL) library. | Python |  [MIT License](https://github.com/Huelse/SEAL-Python/blob/master/LICENSE)
 [SparkFHE](https://github.com/SpiRITlab/spark) | Apache Spark with an add-on for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf). | Apache Spark | [Apache License 2.0](https://github.com/SpiRITlab/spark/blob/master/LICENSE)
-[TenSEAL](https://github.com/OpenMined/TenSEAL) | Library for HE operations on tensors, built on [Microsoft SEAL](#SEAL | Python | [Apache License 2.0](https://github.com/OpenMined/TenSEAL/blob/master/LICENSE)
+[TenSEAL](https://github.com/OpenMined/TenSEAL) | Library for HE operations on tensors, built on [Microsoft SEAL](#SEAL), with a Python API. | Python | [Apache License 2.0](https://github.com/OpenMined/TenSEAL/blob/master/LICENSE)
 <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) | Faster fully HE: Bootstrapping in less than 0.1 seconds.</a> | C++ | [Apache License 2.0](https://github.com/tfhe/tfhe/blob/master/LICENSE)
 
 
 
 - [concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE.
   - License: [GNU Affero General Public License (AGPL) v3.0](https://github.com/zama-ai/concrete/blob/master/concrete/LICENSE) (concrete/concrete/LICENSE)
-- [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs. (C++)
-  - License: [MIT License](https://github.com/vernamlab/cuHE/blob/master/LICENSE)
 - [cuFHE](https://github.com/vernamlab/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library. (C++)
   - License: [MIT License](https://github.com/vernamlab/cuFHE/blob/master/LICENSE)
+- [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs. (C++)
+  - License: [MIT License](https://github.com/vernamlab/cuHE/blob/master/LICENSE)
 - [cuYASHE](https://github.com/cuyashe-library/cuyashe) - Based on leveled fully HE scheme YASHE for GPGPUs. (C++)
   - License: [GNU General Public License (GPL) v3.0](https://github.com/cuyashe-library/cuyashe/blob/master/COPYING)
 - [FHEW](https://github.com/lducas/FHEW) - A Fully HE library based on [_FHEW: Bootstrapping Homomorphic Encryption in less than a second_](https://eprint.iacr.org/2014/816). (C++)
@@ -113,10 +113,10 @@ Library | Description | Language | License
   - License: [MIT License](https://github.com/Huelse/SEAL-Python/blob/master/LICENSE)
 - [SparkFHE](https://github.com/SpiRITlab/spark) - Apache Spark with an add-on for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf).
   - License: [Apache License 2.0](https://github.com/SpiRITlab/spark/blob/master/LICENSE)
-- <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds. (C++)</a>
-  - License: [Apache License 2.0](https://github.com/tfhe/tfhe/blob/master/LICENSE)
 - [TenSEAL](https://github.com/OpenMined/TenSEAL) - Library for HE operations on tensors, built on [Microsoft SEAL](#SEAL), with a Python API.
   - License: [Apache License 2.0](https://github.com/OpenMined/TenSEAL/blob/master/LICENSE)
+- <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds. (C++)</a>
+  - License: [Apache License 2.0](https://github.com/tfhe/tfhe/blob/master/LICENSE)
 
 
 ## Research 
