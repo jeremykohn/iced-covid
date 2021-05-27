@@ -29,6 +29,39 @@ The main goal will be to create a "proof-of-concept" application that will train
 
 ## Homomorphic encryption libraries
 
+Library | Description | Language | License
+-|-|-|-
+[concrete](https://github.com/zama-ai/concrete) | FHE library that implements Zama's variant of TFHE. | Rust | [GNU Affero General Public License (AGPL) v3.0](https://github.com/zama-ai/concrete/blob/master/concrete/LICENSE) (concrete/concrete/LICENSE)
+[cuFHE](https://github.com/vernamlab/cuFHE) | CUDA-accelerated Fully Homomorphic Encryption Library. | C++ |  [MIT License](https://github.com/vernamlab/cuFHE/blob/master/LICENSE)
+[cuHE](https://github.com/vernamlab/cuHE) | GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs. | C++ |  [MIT License](https://github.com/vernamlab/cuHE/blob/master/LICENSE)
+[cuYASHE](https://github.com/cuyashe-library/cuyashe) | Based on leveled fully HE scheme YASHE for GPGPUs. | C++ | [GNU General Public License (GPL) v3.0](https://github.com/cuyashe-library/cuyashe/blob/master/COPYING)
+[FHEW](https://github.com/lducas/FHEW) | A Fully HE library based on [_FHEW: Bootstrapping Homomorphic Encryption in less than a second_](https://eprint.iacr.org/2014/816). | C++ |  [GNU General Public License (GPL) v2.0, or (at your option) any later version](https://github.com/lducas/FHEW/blob/master/LICENSE)
+[FV-NFLlib](https://github.com/CryptoExperts/FV-NFLlib) | A header-only library implementing the Fan-Vercauteren scheme. | C++ | [GNU General Public License (GPL) v3.0](https://github.com/CryptoExperts/FV-NFLlib/blob/master/LICENSE)
+<a name="HEAAN">[HEAAN](https://github.com/snucrypto/HEAAN) | Scheme with native support for fixed point approximate arithmetic. | C++ | [Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://github.com/snucrypto/HEAAN/blob/master/LICENSE)
+[HEAAN-Python](https://github.com/Huelse/HEAAN-Python) | Python binding for the [HEANN](#HEAAN) library. | Python | [MIT License](https://github.com/Huelse/HEAAN-Python/blob/master/LICENSE)
+<a name="HElib">[HElib](https://github.com/HomEnc/HElib) | BGV scheme with bootstrapping and the Approximate Number CKKS scheme. | C++ | [Apache License 2.0](https://github.com/homenc/HElib/blob/master/LICENSE.md)
+[HEMat](https://github.com/K-miran/HEMat) | C++ implementation of matrix computation (addition, multiplication, and transposition) using [HEANN](#HEAAN). | C++ | [MIT License](https://github.com/K-miran/HEMat/blob/master/LICENSE)
+[krypto](https://github.com/kryptnostic/krypto) | C++ implementation of multivariate quadratic FHE. | C++ |
+[Λ ○ λ](https://github.com/cpeikert/Lol) | "Lol" Haskell library for ring-based lattice cryptography that supports FHE. | Haskell | [GNU General Public License (GPL) v3.0](https://github.com/cpeikert/Lol/blob/master/lol/LICENSE) (Lol/lol/LICENSE)
+<a name="lattigo">[lattigo](https://github.com/ldsec/lattigo) | Go library for lattice-based crypto that implements various schemes. | Go | [Apache License 2.0](https://github.com/ldsec/lattigo/blob/master/LICENSE)
+[libScarab](https://github.com/hcrypt-project/libScarab) | C library implementing a FHE scheme using large integers. | C | [Educational or academic use.](https://github.com/hcrypt-project/libScarab#license)
+[libshe](https://github.com/bogdan-kulynych/libshe) | Symmetric somewhat HE library based on DGHV scheme. | C++ | [GNU General Public License (GPL) v3.0](https://github.com/bogdan-kulynych/libshe/blob/master/LICENSE)
+<a name="SEAL">[Microsoft SEAL](https://github.com/microsoft/SEAL) | C++ FHE library implementing BFV and CKKS schemes.</a> | C++ | [MIT License](https://github.com/microsoft/SEAL/blob/main/LICENSE)
+[NFLlib](https://github.com/quarkslab/NFLlib) | NTT-based Fast Lattice library specialized on power-of-two polynomials. | C++ | [MIT License](https://github.com/quarkslab/NFLlib/blob/master/MIT_LICENSE.txt)
+[node-seal](https://github.com/morfix-io/node-seal) | JavaScript/WebAssembly port of [Microsoft SEAL](#SEAL). | JavaScript/WebAssembly | [MIT License](https://github.com/morfix-io/node-seal/blob/master/LICENSE)
+[NuFHE](https://github.com/nucypher/nufhe) | GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe](#tfhe) algorithms. | Python | [GNU General Public License (GPL) v3.0](https://github.com/nucypher/nufhe/blob/master/LICENSE.md)
+<a name="PALISADE">[PALISADE](https://palisade-crypto.org/software-library) | Efficient implementations of lattice cryptography building blocks and leading homomorphic encryption schemes. | C++, with [Python wrapper](https://gitlab.com/palisade/palisade-python-demo) available | [BSD 2-Clause](https://gitlab.com/palisade/palisade-release/-/blob/master/LICENSE)
+[petlib](https://github.com/gdanezis/petlib) | Python library that implements a number of Privacy Enhancing Technologies. | Python |  [BSD 2-Clause](https://github.com/gdanezis/petlib/blob/master/LICENSE.txt)
+[Pyfhel](https://github.com/ibarrond/Pyfhel) | A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE). | Python | [GNU General Public License (GPL) v3.0](https://github.com/ibarrond/Pyfhel/blob/master/LICENSE.txt)
+[PySyft](https://github.com/OpenMined/PySyft) | Python library for secure and private Deep Learning. | Python | [Apache License 2.0](https://github.com/OpenMined/PySyft/blob/main/packages/syft/LICENSE) (PySyft/packages/syft/LICENSE)
+[python-paillier](https://github.com/data61/python-paillier) | Partially HE based on Paillier scheme. | Python | [GNU General Public License (GPL) v3.0](https://github.com/data61/python-paillier/blob/master/LICENSE.txt)
+[SEAL-python](https://github.com/Huelse/SEAL-Python/) | Python binding for the [Microsoft SEAL](#SEAL) library. | Python |  [MIT License](https://github.com/Huelse/SEAL-Python/blob/master/LICENSE)
+[SparkFHE](https://github.com/SpiRITlab/spark) | Apache Spark with an add-on for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf). | Apache Spark | [Apache License 2.0](https://github.com/SpiRITlab/spark/blob/master/LICENSE)
+[TenSEAL](https://github.com/OpenMined/TenSEAL) | Library for HE operations on tensors, built on [Microsoft SEAL](#SEAL | Python | [Apache License 2.0](https://github.com/OpenMined/TenSEAL/blob/master/LICENSE)
+<a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) | Faster fully HE: Bootstrapping in less than 0.1 seconds.</a> | C++ | [Apache License 2.0](https://github.com/tfhe/tfhe/blob/master/LICENSE)
+
+
+
 - [concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE.
   - License: [GNU Affero General Public License (AGPL) v3.0](https://github.com/zama-ai/concrete/blob/master/concrete/LICENSE) (concrete/concrete/LICENSE)
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs. (C++)
