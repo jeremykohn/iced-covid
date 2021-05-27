@@ -41,6 +41,7 @@ The main goal will be to create a "proof-of-concept" application that will train
 - [HEMat](https://github.com/K-miran/HEMat) - C++ implementation of matrix computation (addition, multiplication, and transposition) using [HEANN](#HEAAN).
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/cpeikert/Lol/blob/master/lol/LICENSE)
 - <a name="lattigo">[lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
   - License: [Apache License 2.0](https://github.com/ldsec/lattigo/blob/master/LICENSE)
 - [libScarab](https://github.com/hcrypt-project/libScarab) - C library implementing a FHE scheme using large integers.
