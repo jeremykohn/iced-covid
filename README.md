@@ -30,7 +30,7 @@ The main goal will be to create a "proof-of-concept" application that will train
 ## Homomorphic encryption libraries
 
 - [concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE.
-  - License: [GNU Affero General Public License (AGPL) v3.0](https://github.com/zama-ai/concrete/blob/master/concrete/LICENSE)
+  - License: [GNU Affero General Public License (AGPL) v3.0](https://github.com/zama-ai/concrete/blob/master/concrete/LICENSE) (concrete/concrete/LICENSE)
 - [cuHE](https://github.com/vernamlab/cuHE) - GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs. (C++)
   - License: [MIT License](https://github.com/vernamlab/cuHE/blob/master/LICENSE)
 - [cuFHE](https://github.com/vernamlab/cuFHE) - CUDA-accelerated Fully Homomorphic Encryption Library. (C++)
@@ -51,7 +51,7 @@ The main goal will be to create a "proof-of-concept" application that will train
   - License: [MIT License](https://github.com/K-miran/HEMat/blob/master/LICENSE)
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
-  - License: [GNU General Public License (GPL) v3.0](https://github.com/cpeikert/Lol/blob/master/lol/LICENSE)
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/cpeikert/Lol/blob/master/lol/LICENSE) (Lol/lol/LICENSE)
 - <a name="lattigo">[lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
   - License: [Apache License 2.0](https://github.com/ldsec/lattigo/blob/master/LICENSE)
 - [libScarab](https://github.com/hcrypt-project/libScarab) - C library implementing a FHE scheme using large integers.
