@@ -42,8 +42,11 @@ The main goal will be to create a "proof-of-concept" application that will train
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
 - <a name="lattigo">[lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
+  - License: [Apache License 2.0](https://github.com/ldsec/lattigo/blob/master/LICENSE)
 - [libScarab](https://github.com/hcrypt-project/libScarab) - C library implementing a FHE scheme using large integers.
-- [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme.
+  - License: [Educational or academic use.](https://github.com/hcrypt-project/libScarab#license)
+- [libshe](https://github.com/bogdan-kulynych/libshe) - Symmetric somewhat HE library based on DGHV scheme. (C++)
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/bogdan-kulynych/libshe/blob/master/LICENSE)
 - <a name="SEAL">[Microsoft SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.</a>
   - License: [MIT License](https://github.com/microsoft/SEAL/blob/main/LICENSE)
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials. (C++)
