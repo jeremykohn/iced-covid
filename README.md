@@ -31,7 +31,7 @@ The main goal will be to create a "proof-of-concept" application that will train
 
 Library | Description | Language | License
 -|-|-|-
-[concrete](https://github.com/zama-ai/concrete) | FHE library that implements Zama's variant of TFHE. | Rust | [GNU Affero General Public License (AGPL) v3.0](https://github.com/zama-ai/concrete/blob/master/concrete/LICENSE) (concrete/concrete/LICENSE)
+[concrete](https://github.com/zama-ai/concrete) | Rust FHE library that implements Zama's variant of TFHE. | Rust | [GNU Affero General Public License (AGPL) v3.0](https://github.com/zama-ai/concrete/blob/master/concrete/LICENSE) (concrete/concrete/LICENSE)
 [cuFHE](https://github.com/vernamlab/cuFHE) | CUDA-accelerated Fully Homomorphic Encryption Library. | C++ |  [MIT License](https://github.com/vernamlab/cuFHE/blob/master/LICENSE)
 [cuHE](https://github.com/vernamlab/cuHE) | GPU-accelerated HE library for NVIDIA CUDA-Enabled GPUs. | C++ |  [MIT License](https://github.com/vernamlab/cuHE/blob/master/LICENSE)
 [cuYASHE](https://github.com/cuyashe-library/cuyashe) | Based on leveled fully HE scheme YASHE for GPGPUs. | C++ | [GNU General Public License (GPL) v3.0](https://github.com/cuyashe-library/cuyashe/blob/master/COPYING)
