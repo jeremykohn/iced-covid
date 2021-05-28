@@ -60,7 +60,7 @@ Library | Description | Language | License
 [TenSEAL](https://github.com/OpenMined/TenSEAL) | Library for HE operations on tensors, built on [Microsoft SEAL](#SEAL), with a Python API. | Python | [Apache License 2.0](https://github.com/OpenMined/TenSEAL/blob/master/LICENSE)
 <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) | Faster fully HE: Bootstrapping in less than 0.1 seconds.</a> | C++ | [Apache License 2.0](https://github.com/tfhe/tfhe/blob/master/LICENSE)
 
-
+<!--
 
 - [concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE.
   - License: [GNU Affero General Public License (AGPL) v3.0](https://github.com/zama-ai/concrete/blob/master/concrete/LICENSE) (concrete/concrete/LICENSE)
@@ -118,6 +118,7 @@ Library | Description | Language | License
 - <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds. (C++)</a>
   - License: [Apache License 2.0](https://github.com/tfhe/tfhe/blob/master/LICENSE)
 
+-->
 
 ## Research 
 
