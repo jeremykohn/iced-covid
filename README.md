@@ -122,6 +122,10 @@ Library | Description | Language | License
 
 ## Research 
 
+### Overview
+
+- [Computing Arbitrary Functions of Encrypted Data](https://cacm.acm.org/magazines/2010/3/76272-computing-arbitrary-functions-of-encrypted-data/fulltext). Craig Gentry. 2010. ([PDF](https://crypto.stanford.edu/craig/easy-fhe.pdf))
+
 ### Surveys, reviews, and summaries of research
 
 - [Confidential Machine Learning on Untrusted Platforms: A Survey](https://deepai.org/publication/confidential-machine-learning-on-untrusted-platforms-a-survey). Sagar Sharma, Keke Chen. 2020-12-15.
