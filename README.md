@@ -17,13 +17,13 @@ The main goal will be to create a "proof-of-concept" application that will train
   - Project description: Demonstrating neural network model applied on encrypted data by using functional encryption.
   - License: [Apache License 2.0](https://github.com/fentec-project/neural-network-on-encrypted-data/blob/master/LICENSE)
 
-
+<!--
 #### No description or license
 
 - [linaelsadek/ClassificationOverEncryptedImages](https://github.com/linaelsadek/ClassificationOverEncryptedImages)
 
 - [Chaozs/771-Tensorflow-Encrypted-Image-Classification](https://github.com/Chaozs/771-Tensorflow-Encrypted-Image-Classification)
-
+-->
 
 
 
