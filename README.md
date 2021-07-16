@@ -155,3 +155,6 @@ Library | Language | Description | License
 - [CrypTen](https://github.com/facebookresearch/CrypTen)
   - Description: A research tool for secure machine learning in PyTorch. CrypTen currently implements a cryptographic method called secure multiparty computation (MPC), and we expect to add support for homomorphic encryption and secure enclaves in futue releases. 
   - Website: https://crypten.ai/
+
+- [ZDNet: AI runs smack up against a big data problem in COVID-19 diagnosis]() (By Tiernan Ray, April 4, 2020)
+  - Researchers around the world have quickly pulled together combinations of neural networks that show real promise in diagnosing COVID-19 from chest X-rays and CT scans. But a lack of data is hampering the ability of many efforts to move forward. Some kind of global data sharing may be the answer.
