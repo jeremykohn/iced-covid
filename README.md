@@ -9,6 +9,20 @@ The initial task is to compile and organize existing resources.
 
 The main goal will be to create a "proof-of-concept" application that will train a machine learning classifier on encrypted images, run the classifier on additional encrypted images, and return the classifier's encrypted predictions.
 
+<!--
+
+Proof of concept --
+take existing X-ray/CT neural nets, apply to encrypted data?
+
+(Or, allow people to feed in their own pretrained models, however they trained them)
+
+(Start with model trained on NIH dataset)
+
+-->
+
+
+
+
 ## Existing projects for encrypted image classification
 
 ### Encrypted image classification
@@ -171,6 +185,19 @@ Library | Language | Description | License
 
 -->
 
+<!--
+
+## Medical imaging libraries
+
+
+
+
+
+## Image classification libraries
+
+-->
+
+  
 ## Research 
 
 ### Overview
@@ -192,6 +219,22 @@ Library | Language | Description | License
 
 - [CaRENets: Compact and Resource-Efficient CNN for Homomorphic Inference on Encrypted Medical Images](https://deepai.org/publication/carenets-compact-and-resource-efficient-cnn-for-homomorphic-inference-on-encrypted-medical-images). Jin Chao, Ahmad Al Badawi, Balagopal Unnikrishnan, Jie Lin, Chan Fook Mun, James M. Brown, J. Peter Campbell, Michael Chiang, Jayashree Kalpathy-Cramer, Vijay Ramaseshan Chandrasekhar, Pavitra Krishnaswamy, Khin Mi Mi Aung. 2019-01-29.
 
+- [CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf). Nathan Dowlin, Ran Gilad-Bachrach, Kim Laine, Kristin Lauter, Michael Naehrig, John Wernsing. Microsoft Research, Redmond, USA; Princeton University, New-Jersey, USA. 2016-02-24.
+  
+<!--
+
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/CryptonetsTechReport.pdf
+
+
+Also
+
+"An Efficient Homomorphic Medical Image Encryption Algorithm for Cloud Storage Security"
+
+H/T https://slides.com/juliocesar_io/homomorphic-encryption-outsourcing-computation#/14
+
+
+-->
+  
 
 ## Other resources
 
