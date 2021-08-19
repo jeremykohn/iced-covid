@@ -1,3 +1,8 @@
+<!--
+Homomorphic encryption for COVID-19
+More generally, homomorphic encryption with machine learning for image classification...
+-->
+
 # Image Classification on Encrypted Data for Clinical Open-source Viral Infection Diagnosis (ICED-COVID) 
 
 The initial task is to compile and organize existing resources.
@@ -5,6 +10,8 @@ The initial task is to compile and organize existing resources.
 The main goal will be to create a "proof-of-concept" application that will train a machine learning classifier on encrypted images, run the classifier on additional encrypted images, and return the classifier's encrypted predictions.
 
 ## Existing projects for encrypted image classification
+
+### Encrypted image classification
 
 - [minkcoregame/privacy-CNN](https://github.com/minkcoregame/privacy-CNN)
   - Project description: This repository provides python code for privacy preserving image classification based on fully homomorphic encryption (FHE).
@@ -17,12 +24,54 @@ The main goal will be to create a "proof-of-concept" application that will train
   - Project description: Demonstrating neural network model applied on encrypted data by using functional encryption.
   - License: [Apache License 2.0](https://github.com/fentec-project/neural-network-on-encrypted-data/blob/master/LICENSE)
 
+### Homomorphic encryption of images
+
+- [Homomorphic-Image-Encryption](https://github.com/chronarchitect/Homomorphic-Image-Encryption)
+  - Project description: Secure Outsourcing of Image Editing Based on Homomorphic Encryption
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/chronarchitect/Homomorphic-Image-Encryption/blob/master/LICENSE)
+
+- [adhilaq/Homomorphic-Image-Encryption](https://github.com/adhilaq/Homomorphic-Image-Encryption)
+  - Project description: Performance and Security Analysis on following Homomorphic Encryption Algorithms
+
+- [Computer-Security-homomorphic-image-encryption](https://github.com/jayantj1j/Computer-Security-homomorphic-image-encryption)
+  - Project description: Implemented 3 homomorphic image encryption algorithms- RSA, Pallier & Gentry(Full) in Python and verified their authenticity by doing various image processing operations on the encrypted image.
+
+- [Image-Encryption-based-on-Paillier-Cryptosystem](https://github.com/ragnar17/Image-Encryption-based-on-Paillier-Cryptosystem)
+  - Project description: Image Encryption using Homomorphic Encryption Scheme
+
 <!--
 #### No description or license
 
 - [linaelsadek/ClassificationOverEncryptedImages](https://github.com/linaelsadek/ClassificationOverEncryptedImages)
 
 - [Chaozs/771-Tensorflow-Encrypted-Image-Classification](https://github.com/Chaozs/771-Tensorflow-Encrypted-Image-Classification)
+-->
+
+<!--
+#### Other related projects
+
+From GitHub search
+(Search again?)
+(Also search web?)
+
+Possible search terms --
+(Homomorphic) encryption/encrypted covid
+
+GH search
+
+encryption covid 
+-> 2 repository results
+https://github.com/Gron1275/I_Hate_Covid
+https://github.com/rish1507/Rishab_projects
+
+encrypted covid 
+-> 1 repository result
+https://github.com/UltimateBoi/CovidSploit-Encrypted
+
+Many search results under 'issues' -- however, those seem to be about encrypted data for contact tracing, etc.
+
+Try to recruit repo owners who might be interested in topics like encryption, HE, COVID, etc?
+
 -->
 
 
